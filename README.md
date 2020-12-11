@@ -1,8 +1,7 @@
 # Spring Aop
-[![GitHub Release](https://img.shields.io/github/release/zjayers/spring.aop.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/spring.aop.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/spring.aop.svg?style=flat)](https://github.com/zjayers/spring.aop/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/spring.aop.svg?style=flat)](https://github.com/zjayers/spring.aop/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/spring.aop.svg?maxAge=25000)](https://github.com/zjayers/spring.aop/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/spring.aop/blob/master/LICENSEs)
 
 ## Description
 
